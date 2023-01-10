@@ -1,0 +1,26 @@
+
+html, body {
+    height:50%;
+    background-color: #B0E0E6;
+    font-size: 150%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 150%;
+}
+
+.challenges, .roles. {
+    color: #F56991;
+    text-indent: 100px;
+    text-align: left;
+    font-weight: bold;
+    text-indent: 100px;
+    font-size: 50%;
+    font-family: Times New Roman;
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    float: left;
+}
